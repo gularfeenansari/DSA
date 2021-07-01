@@ -31,7 +31,6 @@ public:
         {
             
             int index = Search(result,nums[i]);
-            cout<<index;
             nums[i] = index;
         }
         
